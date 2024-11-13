@@ -101,8 +101,8 @@ export function LampDemo() {
                           and SCRS Students Chapter.{" "}
                         </p>
                         <p>
-                          Scheduled for the 22th and 23th of May, 2024, this event
-                          showcases nine unique competitions, each designed for
+                          Scheduled for the 22nd and 23rd of Nov, 2024, this event
+                          showcases eight unique competitions, each designed for
                           individual or team participation.{" "}
                         </p>
                       </strong>{" "}
