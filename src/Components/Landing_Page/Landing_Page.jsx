@@ -59,7 +59,7 @@ export default function Homee() {
             <div className="home_m_top_left">
               <h3>TECH FEST 2024</h3>
               <p>EVENTS WORKSHOPS TECH-TALKS</p>
-              <p style={{ color: "yellow" }}>22th - 23th MAY 2024</p>
+              <p style={{ color: "yellow" }}>22nd - 23rd MAY 2024</p>
             </div>
             <div className="home_m_logo">
               <img src={logo} alt="Logo" />
