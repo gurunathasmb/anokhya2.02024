@@ -1,0 +1,171 @@
+[
+  {
+    "title": "Photography",
+    "event_id": 1,
+    "event_name": "Photography",
+    "event_description": "Join us for a unique Photography Networking Experience, designed specifically for individual photographers looking to enhance their skills and connect with fellow creatives! This event is all about celebrating the art of photography while fostering a supportive community.Throughout the event, there will be breakout sessions focusing on various aspects of photography, including composition, lighting, editing, and more.",
+    "registration_fees": "Free",
+    "prize_pool": {
+      "first_prize": "INR 500",
+      "second_prize": "Certificate"
+    },
+    "team_size": "Individual",
+    "event_time": "22nd November",
+    "event_time_24": "10:00 to 12:00",
+    "event_coordinator1": "Aryan",
+    "coordinator1_mobile": "9538152715",
+    "event_coordinator2": "Manjunatha",
+    "coordinator2_mobile": "7411231569",
+    "colour_code": "#FF50B4",
+    "button_id": "btn_2fd4ae115386",
+    "img_path": "/photography.jpg"
+  },
+  {
+    "title": "Free Fire",
+    "event_id": 2,
+    "event_name": "Free Fire",
+    "event_description": "Join us for the Free Fire Squad Showdown, an exhilarating gaming event designed for teams of four! Gather your friends and put your skills to the test in a series of competitive challenges that will push your teamwork and strategy to the limit.Whether you’re a seasoned player or new to the game, the Free Fire Squad Showdown promises fun, camaraderie, and thrilling competition. Don’t miss out on this chance to showcase your skills and connect with fellow Free Fire enthusiasts! Assemble your squad and get ready for an unforgettable gaming experience!",
+    "registration_fees": "Free",
+    "prize_pool": {
+      "first_prize": "INR 1000",
+      "second_prize": "INR 500"
+    },
+    "team_size": "4",
+    "event_time": "23rd November",
+    "event_time_24": "9:00 to 13:00",
+    "event_coordinator1": "Suryanshu",
+    "coordinator1_mobile": "9449037095",
+    "event_coordinator2": "Shrihari",
+    "coordinator2_mobile": "7483707839",
+    "colour_code": "#FF50B4",
+    "button_id": "btn_4879650b53d9",
+    "img_path": "/ff.jpg"
+  },
+  {
+    "title": "Shark Tank",
+    "event_id": 3,
+    "event_name": "Shark Tank",
+    "event_description": "Join us for the Shark Tank Pitch Challenge, an exciting event designed for teams of four aspiring entrepreneurs! This is your opportunity to showcase your innovative business ideas and pitch them to a panel of sharks (judges) in a competitive and supportive environment.",
+    "registration_fees": "Free",
+    "prize_pool": {
+      "first_prize": "IEDC MENTORSHIP",
+      "second_prize":"Certificate"
+    },
+    "team_size": "4",
+    "event_time": "22nd November",
+    "event_time_24": "14:00 to 16:00",
+    "coordinator1_mobile": "9449037095",
+    "event_coordinator2": "Shrihari",
+    "coordinator2_mobile": "7483707839",
+    "colour_code": "#FF50B4",
+    "button_id": "btn_b30c65bade75",
+    "img_path": "/tech.jpg"
+  },
+  {
+    "title": "BGMI",
+    "event_id": 4,
+    "event_name": "BGMI",
+    "event_description": "Get ready for the BGMI Squad Challenge, an action-packed event designed for teams of four! This is your chance to team up with friends and showcase your skills in the popular battle royale game, Battlegrounds Mobile India (BGMI).Whether you're a seasoned BGMI player or a newcomer, the BGMI Squad Challenge offers an exhilarating experience filled with competition, fun, and camaraderie. Gather your squad, gear up, and prepare for an unforgettable gaming adventure!",
+    "registration_fees": "Free",
+    "prize_pool": {
+      "first_prize": "INR 1000",
+      "second_prize": "INR 500"
+    },
+    "team_size": "4",
+    "event_time": "22-23rd November",
+    "event_time_24": "9:00 to 13:00",
+    "event_coordinator1": "Gurunatha",
+    "coordinator1_mobile": "8197736731",
+    "event_coordinator2": "Adarsh",
+    "coordinator2_mobile": "6360605441",
+    "colour_code": "#FF50B4",
+    "button_id": "btn_9aa58e0dc5e9",
+    "img_path": "/bgm.jpg"
+  },
+  {
+    "title": "Treasure Hunt",
+    "event_id": 5,
+    "event_name": "Treasure Hunt",
+    "event_description": "Get ready for an exhilarating Treasure Hunt Adventure! Gather your friends and form a team of four for this exciting event where teamwork, strategy, and creativity will lead you to hidden treasures!.In this action-packed treasure hunt, teams will embark on a quest filled with clues, challenges, and puzzles that will take you through various locations. Each clue will bring you one step closer to the ultimate treasure, testing your problem-solving skills and ability to work together as a cohesive unit.",
+    "registration_fees": "Free",
+    "prize_pool": {
+      "first_prize": "INR 1000",
+      "second_prize": "Certificate"
+    },
+    "team_size": "4",
+    "event_time": "22nd November",
+    "event_time_24": "10:00 to 12:00",
+    "event_coordinator1": "Disha",
+    "coordinator1_mobile": "9632583573",
+    "event_coordinator2": "Ananya",
+    "coordinator2_mobile": "8660430679",
+    "event_coordinator3": "Deekshita",
+    "coordinator23_mobile": "7975767331",
+    "colour_code": "#FF50B4",
+    "button_id": "btn_bd816d0c31e3",
+    "img_path": "/th.png"
+  },
+  {
+    "title": "Tech Debate",
+    "event_id": 6,
+    "event_name": "Tech Debate",
+    "event_description": "Welcome to the Tech Debate Duel, an engaging event designed for pairs of participants to engage in spirited discussions on pressing technology topics! This event is perfect for tech enthusiasts, students, and professionals who want to sharpen their debate skills and explore various perspectives on the impact of technology in our lives.Grab a partner, choose your topic, and prepare for a thrilling intellectual showdown!",
+    "registration_fees": "Free",
+    "prize_pool": {
+      "first_prize": "INR 1000",
+      "second_prize": "Certificate"
+    },
+    "team_size": "2",
+    "event_time": "22nd November",
+    "event_time_24": "10:00 to 12:00",
+    "event_coordinator1": "Saketh",
+    "coordinator1_mobile": "9036036171",
+    "event_coordinator2": "B Uday",
+    "coordinator2_mobile": "8297822077",
+    "colour_code": "#FF50B4",
+    "button_id": "btn_b114bac2dbc5",
+    "img_path": "/db.png"
+  },
+  {
+    "title": "UI-UX",
+    "event_id": 7,
+    "event_name": "UI-UX",
+    "event_description": "Welcome to the UI/UX Design Challenge, an exciting event for pairs of designers to showcase their creativity and problem-solving skills in user interface and user experience design! This event is ideal for aspiring designers, students, and professionals looking to collaborate and innovate in the ever-evolving field of design.Grab a partner, unleash your creativity, and get ready to make an impact in the world of design!",
+    "registration_fees": "Free",
+    "prize_pool": {
+      "first_prize": "INR 1000",
+      "second_prize": "Certificate"
+    },
+    "team_size": "2",
+    "event_time": "22nd November",
+    "event_time_24": "10:00 to 12:00",
+    "event_coordinator1": "Udayaraj",
+    "coordinator1_mobile": "7022680658",
+    "event_coordinator2": "Prateek",
+    "coordinator2_mobile": "9380876050",
+    "colour_code": "#FF50B4",
+    "button_id": "btn_ed0e53136fc7",
+    "img_path": "/ui.jpg"
+  },
+  {
+    "title": "Meme-Splash",
+    "event_id": 8,
+    "event_name": "Meme-Splash",
+    "event_description": "Get ready to dive into the world of memes and unleash your creativity in this fun and engaging individual event! The Meme Mash-Up Challenge invites aspiring designers, students, and meme enthusiasts to showcase their skills in crafting hilarious, relatable, and visually appealing memes.Grab your digital tools, channel your inner meme lord, and get ready to make an impact in the world of design—one meme at a time!",
+    "registration_fees": "Free",
+    "prize_pool": {
+      "first_prize": "INR 500",
+      "second_prize": "Certificate"
+    },
+    "team_size": "1",
+    "event_time": "22nd November",
+    "event_time_24": "10:00 to 12:00",
+    "event_coordinator1": "Priya",
+    "coordinator1_mobile": "7676898004",
+    "event_coordinator2": "Abhitha",
+    "coordinator2_mobile": "8296455102",
+    "colour_code": "#FF50B4",
+    "button_id": "btn_6829a3ede53c",
+    "img_path":"/mems.jpg"
+  }
+]

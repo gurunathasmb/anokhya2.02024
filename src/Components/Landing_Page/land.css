@@ -1,0 +1,347 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  .body {
+    z-index: -1;
+    width: 100vw;
+    min-height: 100vh;
+    background-position: center;
+    background-size: cover;
+  }
+  
+  .navbar, .header {
+    display: none;
+  }
+  
+  .home_m {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    min-height: 100vh;
+    color: yellow;
+    position: relative;
+  }
+  
+  .home_m_top_left {
+    color: rgb(251, 230, 0);
+    position: absolute;
+    top: 2%;
+    right: 2%;
+    text-align: right;
+  }
+  
+  .home_m_top_left h3 {
+    font-size: 1.5rem;
+    letter-spacing: 2px;
+    font-family: "Barlow Condensed", sans-serif;
+  }
+  
+  .home_m_top_left p {
+    color: white;
+    font-size: 0.8rem;
+    letter-spacing: 2px;
+    font-family: "Barlow Condensed", sans-serif;
+  }
+  
+  .home_m_logo img {
+    height: 10vw;
+    position: absolute;
+    left: 1%;
+    top: 1%;
+  }
+  
+  .home_m_banner{
+    position: absolute;
+    overflow: hidden;
+    display: flex;
+  left :20px;
+  top: 100px;
+  place-items:center ;
+  }
+  .home_m_banner1 {
+    position: absolute;
+    overflow: hidden;
+    display: flex;
+  left :740px;
+  top: 150px;
+  place-items:center ;
+  }
+  
+  .home_m_banner img{
+    object-fit: cover;
+    object-position: center;
+    transition: opacity 1s ease-in-out;
+  }
+  .home_m_banner1 img {
+    object-fit: cover;
+    object-position: center;
+  place-items: right;
+  height: 300px;
+  width: 600px;
+    transition: opacity 1s ease-in-out;
+  }
+  .home_m_buttons {
+    display: flex;
+    flex-direction: row;
+    position: absolute;
+    top: 400px;
+    left: 880px;
+    justify-content: space-around;
+    pointer-events: auto;
+    gap: 1rem; /* Adjust the value as needed */
+}
+
+  .home_m_buttons a {
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: 600;
+    color: black;
+    background-color: rgb(255, 255, 0);
+    border: solid 2px black;
+    border-radius: 4px;
+    padding: 0.5rem 1rem;
+    font-size: 0.9rem;
+    letter-spacing: 2px;
+  }
+  
+  .home_m_info {
+    width: 80%;
+    max-width: 360px;
+    margin-top: 2rem;
+    display: flex;
+    position: absolute;
+    left :908px;
+    top: 430px;
+    flex-direction: column;
+    align-items: center;
+    gap: 0.5rem;
+    border: solid 2px rgb(255, 255, 0);
+    padding: 0.5rem 1rem;
+    border-radius: 20px;
+    text-align: center;
+  }
+  .home_m_links{
+    display: flex;
+    position: absolute;
+    left :930px;
+    top: 600px;
+    gap: 80px;
+    border-radius: 100%;
+    flex-direction: row;
+  }
+  
+  .home_m_links div {
+    display: grid;
+    place-items: center;
+    font-size: 1.5rem;
+    
+    background-color: rgba(255, 255, 255, 0.15);
+    border-radius: 50%;
+    height: 3rem;
+    width: 3rem;
+  }
+  
+  .image-container {
+    width: 80%;
+    max-width: 500px;
+    overflow: hidden;
+    position: relative;
+  }
+  
+  .image-container img {
+    width: 100%;
+    position: absolute;
+    transition: opacity 1s ease-in-out;
+  }
+  
+  /* Responsive Design */
+  @media (max-width: 500px) {
+    .body {
+      position:grid;
+      margin: 0;
+      padding: 0;
+      height: 95vh;
+      width: 100vw;
+      background-position: center;
+      background-size: cover;
+    }
+    .home_m_top_left h3 {
+      font-size: 1.2rem;
+    }
+    
+    .home_m_top_left p, .home_m_buttons a {
+      font-size: 0.8rem;
+    }
+  
+    .home_m_logo img {
+      height: 100px;
+    }
+    .home_m_banner{
+      position: absolute;
+      top: 46px;
+      left:0px;
+    }
+    .home_m_banner img {
+      height: 400px;
+      width: 400px;
+    }
+    .home_m_banner1{
+      position: absolute;
+      top: 380px;
+      place-items: center;
+      align-items: center;
+      left :2rem
+     
+     }
+    .home_m_banner1 img{
+      height: 150px;
+      width: 300px;
+    }
+    .home_m_buttons{
+      position: absolute;
+      top: 500px;
+      left:0px;
+    }
+    .home_m_info{
+      position: absolute;
+      top: 520px;
+      left: 40px; 
+     }
+    .home_m_links{
+      position: absolute;
+      top:700px;
+      left :40px;
+    } 
+
+  }
+  
+  @media (min-width: 700px) and (max-width: 1000px) {
+    .body {
+      position:grid;
+      margin: 0;
+      padding: 0;
+      height: 95vh;
+      width: 100vw;
+      background-position: center;
+      background-size: cover;
+    }
+    .home_m_top_left h3 {
+      font-size: 1.2rem;
+    }
+    
+    .home_m_top_left p, .home_m_buttons a {
+      font-size: 0.8rem;
+    }
+  
+    .home_m_logo img {
+      height: 100px;
+    }
+    .home_m_banner{
+      position: absolute;
+      top: 46px;
+      left:150px;
+    }
+    .home_m_banner img {
+      height: 500px;
+      width: 500px;
+    }
+    .home_m_banner1{
+      position: absolute;
+      top: 480px;
+      left: 185px;
+      place-items: center;
+      align-items: center;
+     
+     }
+    .home_m_banner1 img{
+      height: 200px;
+      width: 400px;
+    }
+    .home_m_buttons{
+      position: absolute;
+      top: 640px;
+      left:190px;
+    }
+    .home_m_info{
+      position: absolute;
+      top: 680px;
+      left: 200px; 
+     }
+    .home_m_links{
+      position: absolute;
+      top:850px;
+      left :230px;
+    } 
+  }
+  
+  @media (min-width: 500px) and (max-width: 700px) {
+    .body {
+      position:grid;
+      margin: 0;
+      padding: 0;
+      height: 95vh;
+      width: 100vw;
+      background-position: center;
+      background-size: cover;
+    }
+    .home_m_top_left h3 {
+      font-size: 1.2rem;
+    }
+    
+    .home_m_top_left p, .home_m_buttons a {
+      font-size: 0.8rem;
+    }
+  
+    .home_m_logo img {
+      height: 100px;
+    }
+    .home_m_banner{
+      position: absolute;
+      top: 46px;
+      left:60px;
+    }
+    .home_m_banner img {
+      height: 400px;
+      width: 400px;
+    }
+    .home_m_banner1{
+      position: absolute;
+      top: 370px;
+      left: 65px;
+      place-items: center;
+      align-items: center;
+     
+     }
+    .home_m_banner1 img{
+      height: 200px;
+      width: 400px;
+    }
+    .home_m_buttons{
+      position: absolute;
+      top: 540px;
+      left:70px;
+    }
+    .home_m_info{
+      position: absolute;
+      top: 560px;
+      left: 90px; 
+     }
+    .home_m_links{
+      position: absolute;
+      top:730px;
+      left :120px;
+    } 
+  }
+  
+  @media (min-width: 1000px) {
+    .home_m_banner img {
+      height: 600px;
+      width: 600px;
+    }
+  }
+  

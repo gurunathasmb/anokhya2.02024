@@ -1,0 +1,132 @@
+.events {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+
+.events_con {
+  width: 100%;
+  max-width: 2000px;
+}
+
+.events_head  {
+  text-align: left;
+  size: 40px;
+  margin-left: 40px;
+  color: aliceblue;
+  #label p1{
+    display: none;
+  }
+}
+.events_head p1{
+  display: none;
+}
+
+
+.event_con {
+  position: relative;
+  overflow-x: auto;
+  overflow-y: hidden;
+  margin-top: 20px;
+  white-space: nowrap;
+  -webkit-overflow-scrolling: touch;
+}
+
+.slider {
+  display: inline-flex;
+  transition: transform 0.5s ease;
+  list-style: none;
+  padding: 0;
+  white-space: nowrap;
+}
+
+.item {
+  min-width: 310px;
+  height: 300px;
+  background-size: cover;
+  background-position: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  margin: 0 20px;
+  border-radius: 30px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.content {
+  position: absolute;
+  bottom: 10px;
+  left: 20px;
+  color: white;
+  background: rgba(0, 0, 0, 0.5);
+  padding: 10px;
+  border-radius: 5px;
+}
+
+.content a {
+  color: white;
+  text-decoration: none;
+}
+
+/* Hide scrollbar */
+.event_con::-webkit-scrollbar {
+  display: none;
+}
+
+.event_con {
+  scrollbar-width: none; /* Firefox */
+}
+
+.nav {
+  /* position: absolute; */
+  bottom: 2rem;
+  left: 50%;
+  transform: translateX(-50%);
+  z-index: 10;
+  margin-left: 135px;
+  align-items: center;
+  user-select: none;
+
+  & .btn {
+    background-color: rgba(255, 255, 255, 0.5);
+    color: rgba(0, 0, 0, 0.7);
+    border: 2px solid rgba(0, 0, 0, 0.6);
+    margin: 0 0.25rem;
+    padding: 0.75rem;
+    border-radius: 50%;
+    cursor: pointer;
+    
+
+    &:hover {
+      background-color: rgba(255, 255, 255, 0.3);
+    }
+  }
+}
+@media (max-width: 800px) {
+  .content {
+    & .title {
+      font-size: 0.9rem;
+    }
+    & .description {
+      font-size: 0.65rem;
+    }
+    & button {
+      display: none;
+    }
+  }
+  .events_head  {
+    text-align: left;
+    margin-left: 20px;
+    size: 40px;
+    color: aliceblue;
+  }
+  .events_head p1{
+    display: flex;
+    font-size: 20px;
+  }
+  .nav{
+    display: none;
+  }
+}
