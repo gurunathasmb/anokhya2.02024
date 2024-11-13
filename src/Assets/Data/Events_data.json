@@ -22,7 +22,7 @@
   },
   {
     "title": "Free Fire",
-    "event_id": 2,
+    "event_id": 8,
     "event_name": "Free Fire",
     "event_description": "Join us for the Free Fire Squad Showdown, an exhilarating gaming event designed for teams of four! Gather your friends and put your skills to the test in a series of competitive challenges that will push your teamwork and strategy to the limit.Whether you’re a seasoned player or new to the game, the Free Fire Squad Showdown promises fun, camaraderie, and thrilling competition. Don’t miss out on this chance to showcase your skills and connect with fellow Free Fire enthusiasts! Assemble your squad and get ready for an unforgettable gaming experience!",
     "registration_fees": "Free",
@@ -63,7 +63,7 @@
   },
   {
     "title": "BGMI",
-    "event_id": 4,
+    "event_id": 7,
     "event_name": "BGMI",
     "event_description": "Get ready for the BGMI Squad Challenge, an action-packed event designed for teams of four! This is your chance to team up with friends and showcase your skills in the popular battle royale game, Battlegrounds Mobile India (BGMI).Whether you're a seasoned BGMI player or a newcomer, the BGMI Squad Challenge offers an exhilarating experience filled with competition, fun, and camaraderie. Gather your squad, gear up, and prepare for an unforgettable gaming adventure!",
     "registration_fees": "Free",
@@ -128,7 +128,7 @@
   },
   {
     "title": "UI-UX",
-    "event_id": 7,
+    "event_id": 2,
     "event_name": "UI-UX",
     "event_description": "Welcome to the UI/UX Design Challenge, an exciting event for pairs of designers to showcase their creativity and problem-solving skills in user interface and user experience design! This event is ideal for aspiring designers, students, and professionals looking to collaborate and innovate in the ever-evolving field of design.Grab a partner, unleash your creativity, and get ready to make an impact in the world of design!",
     "registration_fees": "Free",
@@ -149,7 +149,7 @@
   },
   {
     "title": "Meme-Splash",
-    "event_id": 8,
+    "event_id": 4,
     "event_name": "Meme-Splash",
     "event_description": "Get ready to dive into the world of memes and unleash your creativity in this fun and engaging individual event! The Meme Mash-Up Challenge invites aspiring designers, students, and meme enthusiasts to showcase their skills in crafting hilarious, relatable, and visually appealing memes.Grab your digital tools, channel your inner meme lord, and get ready to make an impact in the world of design—one meme at a time!",
     "registration_fees": "Free",
