@@ -3,7 +3,7 @@ import { motion, AnimatePresence } from "framer-motion";
 import "./land.css";
 import logo from "../../Assets/LPMV/logo2.png";
 import banner from "../../Assets/LPMV/1.gif";
-import  previous from "../../Assets/LPMV/anokhya2.png";
+import  previous from "../../Assets/LPMV/Anokhya2.png";
 import banner2 from "../../Assets/LPMV/banner.png";
 import banner1 from "../../Assets/Events/final.mp4";
 import { AuroraBackground } from "../ui/background";
