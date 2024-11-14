@@ -23,9 +23,9 @@ export function LampDemo() {
     let { total, days, hours, minutes, seconds } = getTimeRemaining(deadline);
     if (total >= 0) {
       setTimer(
-        `${days > 9 ? days : "0" + days} : ${hours > 9 ? hours : "0" + hours} : ${
+        `${days > 9 ? days : "0" + days}:${hours > 9 ? hours : "0" + hours}:${
           minutes > 9 ? minutes : "0" + minutes
-        } : ${seconds > 9 ? seconds : "0" + seconds}`
+        }:${seconds > 9 ? seconds : "0" + seconds}`
       );
     } else {
       clearInterval(Ref.current); // Clear the interval when the countdown is complete
