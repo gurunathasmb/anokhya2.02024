@@ -73,7 +73,7 @@ export default function Homee() {
 
             <div className="home_m_buttons">
              <br></br>
-              <a href="/Anokhya.pdf">BROCHURE</a>
+              <a href="/Anokhya2.0.pdf">BROCHURE</a>
               <a href="#Events">EVENTS</a>
               <a href="#Timeline">TIMELINE</a>
             </div>
