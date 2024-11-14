@@ -242,6 +242,12 @@
     height: 335px;
 
 }
+.content2 {
+    display:none;
+}
+.content1{
+    display:none;
+}
 
     
 }
