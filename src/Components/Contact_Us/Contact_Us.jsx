@@ -141,6 +141,14 @@ const Contact_Us = () => {
                 <i className="fab fa-linkedin"></i>
               </a>
             </li>
+             <li>
+              <a
+                href="https://wa.me/qr/VD4OO4XS65QCP1/"
+                target="_blank"
+              >
+                <i className="fab fa-whatsapp"></i>
+              </a>
+            </li>
           </ul>
         </div>
         <div className="conts_img">
