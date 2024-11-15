@@ -6,7 +6,7 @@ Official Repository for Website hosted for Anokhya'24 Tech Fest.
 - React
 - CSS
 
-The website is hosted on Netlify. [Link](https://anokhya.netlify.app/)
+The website is hosted on Netlify. [Link](https://anokhya2022-26.netlify.app/)
 
 ## Build and Deploy
 
