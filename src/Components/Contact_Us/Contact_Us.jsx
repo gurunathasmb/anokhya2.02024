@@ -141,12 +141,12 @@ const Contact_Us = () => {
                 <i className="fab fa-linkedin"></i>
               </a>
             </li>
-             <li>
+            <li>
               <a
-                href="https://wa.me/qr/VD4OO4XS65QCP1/"
+                href={`tel:${8197736731}`} 
                 target="_blank"
               >
-                <i className="fab fa-whatsapp"></i>
+                <i className="fas fa-phone"></i>
               </a>
             </li>
           </ul>
