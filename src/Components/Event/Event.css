@@ -63,6 +63,7 @@
 .event_prize_details{
     gap: 5px;
     border: SOLID 2PX rgba(255, 255, 0, 0.512);
+    align-items: center;
 }
 .event_prize_details h2{
     color: yellow;
