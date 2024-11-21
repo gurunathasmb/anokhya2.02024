@@ -42,9 +42,9 @@ export default function Homee() {
         }}
       >
         <div className="body" id="Home">
-           <div>
+{/*            <div>
                 <Alert_mssg message="🎉 Big News! Scuzo (Popsicle) is gifting cashback vouchers to the runners-up of Anokhya 2.0! 🏆💸" duration={8000} />
-            </div>
+            </div> */}
           <div className="home_m">
             {/* Toggle Popup Button */}
             <button onClick={togglePopup} className="toggle-button">
