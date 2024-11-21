@@ -24,6 +24,7 @@ const Announcement = ({ message, duration }) => {
           style={{
             backgroundColor: "yellow",
             color: "black",
+            margintop:"10px",
             padding: "10px",
             width: "100%",
             display: "flex",
