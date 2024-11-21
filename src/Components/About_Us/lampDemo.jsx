@@ -49,7 +49,7 @@ export function LampDemo() {
   }, []);
 
   const getDeadTime = () => {
-    return new Date("2024-11-22T00:00:00+05:30"); // 8th November 2024, 00:00:00 IST
+    return new Date("2024-11-22T00:10:00+05:30"); // 8th November 2024, 00:00:00 IST
   };
 
   return (
